@@ -16,3 +16,7 @@ The sheet generated all the data used by the project. The estimate from a senior
 - Random names included famous names (eg Elvis Presly) or joke names (Dwayne Pipe) which was welcomed by the teams as a talking point and a bit of fun with their task.
 - The HR structures were expressed as a visial element on an excel form, exported or imported and used to control the entire SAP transaction calls, tie created positions to supervisors and payroll
 - The process was recognised as a differernt approach to a common problem that created substantial improvements in both time and handling of complex data needs
+
+## Sample images
+![image info](./images/Org Structure Data.png)
+![image info](./images/Structure Example.png)
