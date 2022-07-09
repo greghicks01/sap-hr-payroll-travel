@@ -18,5 +18,5 @@ The sheet generated all the data used by the project. The estimate from a senior
 - The process was recognised as a differernt approach to a common problem that created substantial improvements in both time and handling of complex data needs
 
 ## Sample images
-![image info](./images/Org Structure Data.png)
-![image info](./images/Structure Example.png)
+![image info](./images/OrgStructureData.png)
+![image info](./images/StructureExample.png)
